@@ -7,13 +7,11 @@
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-6" value="三种海参基因组组装与注释" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="115" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5_p2NUVwHEpXnmgRiOy_-8">
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="479.8888888888889" y="190" as="targetPoint" />
+            <mxPoint x="479.9649999999999" y="202.36500000000024" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5_p2NUVwHEpXnmgRiOy_-8" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="446.1" y="35.86" width="67.73" height="265.28" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-9" value="海参基因组大小/结构进化研究" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="266" y="200" width="163" height="20" as="geometry" />
