@@ -175,7 +175,7 @@
             <mxPoint x="395.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-39" value="棘皮动物重复序列插入动态" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-39" value="祖先微共线性与功能约束" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="426.5" y="260" width="22" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
