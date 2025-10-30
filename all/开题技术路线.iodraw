@@ -103,22 +103,25 @@
             <mxPoint x="170" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;棘皮动物系统发育关系重建&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="260" width="22" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="220" as="sourcePoint" />
-            <mxPoint x="60" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="220" width="22" height="240" as="geometry" />
+          <mxGeometry x="210" y="220" width="22" height="240" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-17" value="棘皮动物基因组大小演化路径" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="xhV0Z-uGn5Hp0QBmar8g-19">
           <mxGeometry y="40" width="22" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xhV0Z-uGn5Hp0QBmar8g-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" as="sourcePoint" />
+            <mxPoint x="10" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="220" width="22" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;棘皮动物系统发育关系重建&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="xhV0Z-uGn5Hp0QBmar8g-20">
+          <mxGeometry y="40" width="22" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xhV0Z-uGn5Hp0QBmar8g-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint x="10" y="40" as="targetPoint" />
