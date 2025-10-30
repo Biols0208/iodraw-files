@@ -29,10 +29,10 @@
           <mxGeometry x="452" y="86" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;strokeWidth=1;rotation=-90;size=0.5;" parent="1" vertex="1">
-          <mxGeometry x="417" y="185" width="20" height="630" as="geometry" />
+          <mxGeometry x="429.16" y="190" width="20" height="630" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-70" value="&lt;span style=&quot;text-align: start; font-size: 12pt; line-height: 20.8px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;TEs&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 12pt; line-height: 20.8px; font-family: 宋体;&quot;&gt;是塑造棘皮动物基因组演化的核心内源性力量&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=2;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="303" y="520" width="377" height="40" as="geometry" />
+          <mxGeometry x="239" y="520" width="377" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.495;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xhV0Z-uGn5Hp0QBmar8g-6" target="5_p2NUVwHEpXnmgRiOy_-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
