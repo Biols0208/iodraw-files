@@ -85,6 +85,15 @@
             <mxPoint x="70" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-10" value="棘皮动物基因组大小多样性" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="22" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="230" as="sourcePoint" />
+            <mxPoint x="80" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
