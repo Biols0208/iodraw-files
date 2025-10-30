@@ -139,20 +139,50 @@
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-24" value="TEs塑造基因组进化" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="412" y="140" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-26" value="棘皮动物基因组大小演化路径" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-31" value="棘皮动物基因组大小演化路径" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="22" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-27" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;棘皮动物系统发育关系重建&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="230" as="sourcePoint" />
+            <mxPoint x="230" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-33" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;棘皮动物系统发育关系重建&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="53" y="270" width="22" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-28" value="棘皮动物基因组大小多样性" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="63" y="230" as="sourcePoint" />
+            <mxPoint x="63" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-35" value="棘皮动物基因组大小多样性" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="95" y="270" width="22" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-29" value="棘皮动物重复序列丰度" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="230" as="sourcePoint" />
+            <mxPoint x="105" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-37" value="棘皮动物重复序列丰度" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="137" y="270" width="22" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-30" value="棘皮动物重复序列插入动态" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="147" y="230" as="sourcePoint" />
+            <mxPoint x="147" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-39" value="棘皮动物重复序列插入动态" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="178" y="270" width="22" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188" y="230" as="sourcePoint" />
+            <mxPoint x="188" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
