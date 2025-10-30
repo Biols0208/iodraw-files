@@ -48,15 +48,6 @@
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-22" value="PacBio, Hi-C, Illumina" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="412" y="86" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5_p2NUVwHEpXnmgRiOy_-27" value="" style="line;strokeWidth=1;html=1;shadow=0;glass=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="236.64" width="120" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="5_p2NUVwHEpXnmgRiOy_-28" value="" style="line;strokeWidth=1;html=1;shadow=0;glass=0;rotation=90;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="200.62" y="246.02" width="18.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="5_p2NUVwHEpXnmgRiOy_-30" value="甲基化" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="167" y="260" width="87" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-33" value="阐明TE时空分布景观" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="287" y="301.14" width="22" height="138.86" as="geometry" />
         </mxCell>
@@ -71,24 +62,6 @@
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-37" value="解释TE与地质事件联系" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="350" y="301.14" width="22" height="158.86" as="geometry" />
-        </mxCell>
-        <mxCell id="5_p2NUVwHEpXnmgRiOy_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endSize=2;dashed=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="196" y="300" as="targetPoint" />
-            <mxPoint x="195.75" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5_p2NUVwHEpXnmgRiOy_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=2;dashed=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="226.4000000000001" y="300" as="targetPoint" />
-            <mxPoint x="226.5" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5_p2NUVwHEpXnmgRiOy_-40" value="甲基化相关基因分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="301.14" width="22" height="138.86" as="geometry" />
-        </mxCell>
-        <mxCell id="5_p2NUVwHEpXnmgRiOy_-41" value="TE区域甲基化分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="216" y="301.14" width="22" height="128.86" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endSize=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
