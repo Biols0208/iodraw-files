@@ -79,6 +79,12 @@
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-6" value="棘皮动物基因组重排与演化热点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="200" width="183" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="310" as="sourcePoint" />
+            <mxPoint x="430" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
