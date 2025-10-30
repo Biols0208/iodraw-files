@@ -154,24 +154,6 @@
             <mxPoint x="10" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-54" value="海参&lt;div&gt;F&lt;br&gt;R&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;基因&lt;/div&gt;&lt;div&gt;特异性扩张&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="646" y="260" width="22" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="656" y="220" as="sourcePoint" />
-            <mxPoint x="656" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-56" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;F&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;R&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;E&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;P&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基因家族多样性&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="593" y="260" width="22" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="603" y="220" as="sourcePoint" />
-            <mxPoint x="603" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-58" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="751.5" y="220" width="22" height="240" as="geometry" />
         </mxCell>
@@ -191,6 +173,30 @@
           <mxGeometry y="40" width="22" height="230" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xhV0Z-uGn5Hp0QBmar8g-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" as="sourcePoint" />
+            <mxPoint x="10" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="630" y="220" width="22" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-54" value="海参&lt;div&gt;F&lt;br&gt;R&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;基因&lt;/div&gt;&lt;div&gt;特异性扩张&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="xhV0Z-uGn5Hp0QBmar8g-61">
+          <mxGeometry y="40" width="22" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xhV0Z-uGn5Hp0QBmar8g-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" as="sourcePoint" />
+            <mxPoint x="10" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="593" y="220" width="22" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-56" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;F&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;R&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;E&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;P&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基因家族多样性&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="xhV0Z-uGn5Hp0QBmar8g-62">
+          <mxGeometry y="40" width="22" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xhV0Z-uGn5Hp0QBmar8g-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint x="10" y="40" as="targetPoint" />
