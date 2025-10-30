@@ -181,7 +181,7 @@
             <mxPoint x="656" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-56" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;棘皮动物基因组宏观保守性&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-56" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;F&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;R&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;E&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;P&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基因家族多样性&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="593" y="260" width="22" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
