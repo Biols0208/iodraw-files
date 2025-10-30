@@ -154,18 +154,6 @@
             <mxPoint x="10" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xhV0Z-uGn5Hp0QBmar8g-52" target="5_p2NUVwHEpXnmgRiOy_-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-52" value="基因组重排与&lt;div&gt;F&lt;div&gt;R&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;/div&gt;&lt;div&gt;基因簇进化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="699" y="260" width="22" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="709" y="220" as="sourcePoint" />
-            <mxPoint x="709" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-54" value="海参&lt;div&gt;F&lt;br&gt;R&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;基因&lt;/div&gt;&lt;div&gt;特异性扩张&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="646" y="260" width="22" height="200" as="geometry" />
         </mxCell>
@@ -191,6 +179,18 @@
           <mxGeometry y="40" width="22" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xhV0Z-uGn5Hp0QBmar8g-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" as="sourcePoint" />
+            <mxPoint x="10" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="699" y="220" width="22" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-52" value="基因组重排与&lt;div&gt;F&lt;div&gt;R&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;/div&gt;&lt;div&gt;基因簇进化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="xhV0Z-uGn5Hp0QBmar8g-60">
+          <mxGeometry y="40" width="22" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xhV0Z-uGn5Hp0QBmar8g-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint x="10" y="40" as="targetPoint" />
