@@ -165,6 +165,12 @@
         <mxCell id="TmVWSxeoRbvNpNMv1ETC-2" value="染色体核型分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="362" y="301.14" width="22" height="108.86" as="geometry" />
         </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="220" as="sourcePoint" />
+            <mxPoint x="480" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
