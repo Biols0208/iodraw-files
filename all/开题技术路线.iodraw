@@ -11,30 +11,30 @@
           <mxGeometry x="365.87" y="-92.72" width="67.73" height="522.45" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-9" value="海参基因组大小/结构进化研究" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="306" y="200" width="163" height="20" as="geometry" />
+          <mxGeometry x="57" y="200" width="163" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-10" value="海参免疫适应性进化分析研究" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="573" y="200" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-12" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="366.17" y="182.78" width="42.37" height="117.71" as="geometry" />
+          <mxGeometry x="117.17000000000002" y="182.78" width="42.37" height="117.71" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endSize=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="298" y="300" as="targetPoint" />
-            <mxPoint x="297.75" y="280" as="sourcePoint" />
+            <mxPoint x="49" y="300" as="targetPoint" />
+            <mxPoint x="48.75" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=2;" parent="1" source="5_p2NUVwHEpXnmgRiOy_-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="328.4" y="300" as="targetPoint" />
+            <mxPoint x="79.39999999999998" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-13" value="转座元件分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="260" width="87" height="20" as="geometry" />
+          <mxGeometry x="36" y="260" width="87" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-16" value="染色体重排分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="260" width="94" height="20" as="geometry" />
+          <mxGeometry x="151" y="260" width="94" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-17" value="海参调研、取样、测序" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="319.96" y="57" width="160" height="20" as="geometry" />
@@ -49,37 +49,37 @@
           <mxGeometry x="412" y="86" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-33" value="阐明TE时空分布景观" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="287" y="301.14" width="22" height="138.86" as="geometry" />
+          <mxGeometry x="38" y="301.14" width="22" height="138.86" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-35" value="鉴定TE近期扩张类型" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="318" y="301.14" width="22" height="138.86" as="geometry" />
+          <mxGeometry x="69" y="301.14" width="22" height="138.86" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360.4" y="300" as="targetPoint" />
-            <mxPoint x="360.5" y="280" as="sourcePoint" />
+            <mxPoint x="111.39999999999998" y="300" as="targetPoint" />
+            <mxPoint x="111.5" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-37" value="解释TE与地质事件联系" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="350" y="301.14" width="22" height="158.86" as="geometry" />
+          <mxGeometry x="101" y="301.14" width="22" height="158.86" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endSize=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="445" y="300" as="targetPoint" />
-            <mxPoint x="444.75" y="280" as="sourcePoint" />
+            <mxPoint x="196" y="300" as="targetPoint" />
+            <mxPoint x="195.75" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475.4000000000001" y="300" as="targetPoint" />
-            <mxPoint x="475.5" y="280" as="sourcePoint" />
+            <mxPoint x="226.4000000000001" y="300" as="targetPoint" />
+            <mxPoint x="226.5" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-47" value="充实重排驱动进化证据" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="434" y="301.14" width="22" height="158.86" as="geometry" />
+          <mxGeometry x="185" y="301.14" width="22" height="158.86" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-48" value="构建棘皮动物基因连锁群" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="465" y="301.14" width="22" height="168.86" as="geometry" />
+          <mxGeometry x="216" y="301.14" width="22" height="168.86" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-51" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="631.17" y="172.79" width="42.37" height="137.71" as="geometry" />
@@ -128,12 +128,12 @@
         </mxCell>
         <mxCell id="TmVWSxeoRbvNpNMv1ETC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endSize=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="413" y="300" as="targetPoint" />
-            <mxPoint x="412.75" y="280" as="sourcePoint" />
+            <mxPoint x="164" y="300" as="targetPoint" />
+            <mxPoint x="163.75" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TmVWSxeoRbvNpNMv1ETC-2" value="染色体核型分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="402" y="301.14" width="22" height="108.86" as="geometry" />
+          <mxGeometry x="153" y="301.14" width="22" height="108.86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
