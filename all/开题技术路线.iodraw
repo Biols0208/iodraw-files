@@ -14,7 +14,7 @@
           <mxGeometry x="43" y="200" width="192" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-10" value="海参FREP基因家族进化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="593" y="200" width="137" height="20" as="geometry" />
+          <mxGeometry x="562" y="200" width="137" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-17" value="海参调研、取样、测序" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="319.96" y="57" width="160" height="20" as="geometry" />
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="708" y="220" width="22" height="240" as="geometry" />
+          <mxGeometry x="677" y="220" width="22" height="240" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-50" value="F&lt;div&gt;R&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;基因表达与免疫反应&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="xhV0Z-uGn5Hp0QBmar8g-58">
           <mxGeometry y="40" width="22" height="200" as="geometry" />
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-60" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="670" y="220" width="22" height="270" as="geometry" />
+          <mxGeometry x="639" y="220" width="22" height="270" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-52" value="基因组重排与&lt;div&gt;F&lt;div&gt;R&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;/div&gt;&lt;div&gt;基因簇进化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="xhV0Z-uGn5Hp0QBmar8g-60">
           <mxGeometry y="40" width="22" height="230" as="geometry" />
@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="631" y="220" width="22" height="240" as="geometry" />
+          <mxGeometry x="600" y="220" width="22" height="240" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-54" value="海参&lt;div&gt;F&lt;br&gt;R&lt;/div&gt;&lt;div&gt;E&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;基因&lt;/div&gt;&lt;div&gt;特异性扩张&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="xhV0Z-uGn5Hp0QBmar8g-61">
           <mxGeometry y="40" width="22" height="200" as="geometry" />
@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-62" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="593" y="220" width="22" height="220" as="geometry" />
+          <mxGeometry x="562" y="220" width="22" height="220" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-56" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;F&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;R&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;E&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;P&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基因家族多样性&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="xhV0Z-uGn5Hp0QBmar8g-62">
           <mxGeometry y="40" width="22" height="180" as="geometry" />
