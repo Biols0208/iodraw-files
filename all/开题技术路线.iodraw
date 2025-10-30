@@ -58,9 +58,6 @@
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-62" value="免疫基因功能表达验证" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="713" y="301.14" width="22" height="158.86" as="geometry" />
         </mxCell>
-        <mxCell id="5_p2NUVwHEpXnmgRiOy_-65" value="棘皮动物基因组大小多样性" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="80" y="260" width="22" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="5_p2NUVwHEpXnmgRiOy_-67" value="感染实验设计" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="631" y="360.57" width="75" height="20" as="geometry" />
         </mxCell>
@@ -78,12 +75,6 @@
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-6" value="棘皮动物基因组重排与演化热点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="200" width="183" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="220" as="sourcePoint" />
-            <mxPoint x="90" y="260" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-10" value="棘皮动物重复序列丰度" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="22" height="150" as="geometry" />
@@ -116,12 +107,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="220" width="22" height="220" as="geometry" />
+          <mxGeometry x="43" y="220" width="22" height="220" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;棘皮动物系统发育关系重建&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="xhV0Z-uGn5Hp0QBmar8g-20">
           <mxGeometry y="40" width="22" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xhV0Z-uGn5Hp0QBmar8g-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xhV0Z-uGn5Hp0QBmar8g-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" as="sourcePoint" />
+            <mxPoint x="10" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="220" width="22" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5_p2NUVwHEpXnmgRiOy_-65" value="棘皮动物基因组大小多样性" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;horizontal=1;verticalAlign=top;" parent="xhV0Z-uGn5Hp0QBmar8g-21" vertex="1">
+          <mxGeometry y="40" width="22" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xhV0Z-uGn5Hp0QBmar8g-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="xhV0Z-uGn5Hp0QBmar8g-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" as="sourcePoint" />
             <mxPoint x="10" y="40" as="targetPoint" />
